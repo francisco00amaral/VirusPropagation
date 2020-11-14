@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1592059298 source:c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1592059303 c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\utils.h
+
+1592059304 source:c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\tp\locais.c
+	"locais.h"
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592160843 source:c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+	"locais.h"
+	"pessoas.h"
+
+1592059307 c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\tp\locais.h
+
+1592160842 source:c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\tp\pessoas.c
+	"locais.h"
+	"pessoas.h"
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592160925 c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\tp\pessoas.h
+
+1585594190 c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\tp\utils.h
+
+1592059304 source:c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\prog_p8_2018019123\locais.c
+	"locais.h"
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592059307 c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\prog_p8_2018019123\locais.h
+
+1585594190 c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\prog_p8_2018019123\utils.h
+
+1592233803 source:c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\prog_p8_2018019123\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+	"locais.h"
+	"pessoas.h"
+
+1592160925 c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\prog_p8_2018019123\pessoas.h
+
+1592162587 source:c:\users\kiko_\desktop\2º ano\2º semestre\prog\tp\prog_p8_2018019123\pessoas.c
+	"locais.h"
+	"pessoas.h"
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
